@@ -21,7 +21,7 @@ import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
 
 /**
- *
+ * un micro market
  * @author 
  */
 @Entity

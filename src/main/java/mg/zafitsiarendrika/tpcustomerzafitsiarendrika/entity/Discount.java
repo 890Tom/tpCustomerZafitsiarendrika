@@ -22,7 +22,7 @@ import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
 
 /**
- *
+ * un modele discount
  * @author 
  */
 @Entity

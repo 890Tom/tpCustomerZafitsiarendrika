@@ -22,7 +22,7 @@ import jakarta.persistence.Table;
 /**
  * Un client.
  *
- * @author ****
+ * @author kk
  */
 @Entity
 @Table(name = "CUSTOMER")
